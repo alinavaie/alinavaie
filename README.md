@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ali.resana@gmail.com**
 
-- ⚡ Fun fact **I love banana**
+- ⚡ Fun fact **I love cats and bananas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
