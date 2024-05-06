@@ -1,6 +1,6 @@
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [Timify]([https://obeyo.com](https://www.timify.com/en/))
+- 🔭 I’m currently working on [Timify]([https://www.timify.com/en/])
 
 - 🌱 I’m currently learning **Swift**
 
